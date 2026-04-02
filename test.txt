@@ -1,2 +1,2 @@
 city: banglore
-traffic : none
+traffic : high
