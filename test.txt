@@ -1,2 +1,2 @@
-city: none
-traffic : none
+city: chennai
+traffic : medium
